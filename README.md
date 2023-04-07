@@ -6,3 +6,4 @@
 ###We unveil our Shogi project for those who study and learn reinforcement learning.
 
 # you can check our study for reinforcementleaning
+###https://savory-bat-d88.notion.site/2807153e0c9e4d3eae470a7bd380c62b
